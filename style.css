@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+body{
+  font-family: 'Martian Mono', monospace;
+}
+
 .cabeçalho {
   background-color: #C84141;
   color: white;
@@ -20,4 +24,28 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+  }
+
+  .escola-imagem{
+    width: 25%;
+  }
+
+  .escola{
+    background-color: #C84141;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0;
+  }
+
+  .escola-div-conteudo{
+    width: 35%;
+  }
+  .escola-titulo{
+    padding: 15px 0;
+  }
+
+  .estudante-imagem{
+    width: 130px;
   }
