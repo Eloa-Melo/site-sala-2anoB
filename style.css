@@ -49,3 +49,55 @@ body{
   .estudante-imagem{
     width: 130px;
   }
+
+  .estudante-imagem-meninas{
+    width: 130px;
+  }
+
+  .estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+  }
+
+  .estudante-div{
+    text-align: center;
+  }
+
+  .estudantes-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20% 20%;
+  }
+
+  .estudante-imagem-meninas{
+    width: 130px;
+  }
+
+ .cor-todo-o-site{
+ background-color: #C84141;
+ }
+
+ .estudante-titulo{
+  color: white;
+  font-family: 'Italiana', serif;
+  font-size: 30px;
+ }
+
+ .estudante-nome{
+  font-family: 'Ysabeau SC', sans-serif;
+  color: white;
+ }
+
+ .rodape{
+  background-color: black;
+  text-align: center;
+ }
+
+ .imagem-rodape{
+  height: 60px;
+  padding: 12px 0;
+ }
+
+ .cabeçalho-lista-item{
+  font-family: 'Ysabeau SC', sans-serif;
+  color: white;
+ }
